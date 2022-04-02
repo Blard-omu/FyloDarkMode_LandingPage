@@ -11,6 +11,3 @@ div{
     display: block;
     background-color: aquamarine;
 }
-div > ul{
-    nav-down: auto;
-}
